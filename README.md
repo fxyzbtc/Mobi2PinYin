@@ -1,2 +1,4 @@
-# PinYinDoc
-给电子书注音的工具，支持HTML/MOBI文件格式，并提供一个PyQt图形界面方便操作
+# Mobi2PinYin
+
+Mobi2PinYin可以给Mobi电子文档标注中文拼音后并重新打包。
+
